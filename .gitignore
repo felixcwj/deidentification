@@ -1,0 +1,11 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+logs/
+output/
+frames/
+*.mp4
+*.png
+*.jpg
